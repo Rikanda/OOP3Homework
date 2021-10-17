@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3Homework", "OOP3Homework\OOP3Homework.csproj", "{BD810140-1112-46C7-87D1-6604220B52C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3Homework", "OOP3Homework\OOP3Homework.csproj", "{BD810140-1112-46C7-87D1-6604220B52C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task2", "task2\task2.csproj", "{FB36E78E-B342-4AD6-91D7-44195A959579}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BD810140-1112-46C7-87D1-6604220B52C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD810140-1112-46C7-87D1-6604220B52C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD810140-1112-46C7-87D1-6604220B52C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB36E78E-B342-4AD6-91D7-44195A959579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB36E78E-B342-4AD6-91D7-44195A959579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB36E78E-B342-4AD6-91D7-44195A959579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB36E78E-B342-4AD6-91D7-44195A959579}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
